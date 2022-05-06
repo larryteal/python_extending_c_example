@@ -1,0 +1,1 @@
+extern int c_prime_counter(int frm, int til);
